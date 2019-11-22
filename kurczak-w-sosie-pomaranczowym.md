@@ -11,7 +11,7 @@ Kroimy:
 6. kurczaka na małe kawałki
 
 ### Marynujemy kurczaka:
-Kurczaka podlewany dwoma łyżkami jasnego sosu sojowego, jedną łyżeczką ciemnego sosu sojowego, łyżka mąki kukurydzianej i łyżeczka proszku do pieczenia
+Kurczaka podlewany dwoma łyżkami jasnego sosu sojowego, jedną łyżeczką ciemnego sosu sojowego, łyżka mąki kukurydzianej i łyżeczka sody oczyszczonej
 
 ### Sos:
  - łyżeczka ciemnego sosu sojowego, 
