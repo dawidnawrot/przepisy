@@ -28,4 +28,4 @@ Kurczaka podlewany dwoma łyżkami jasnego sosu sojowego, jedną łyżeczką cie
  - smażymy tak przez chwilę, a następnie dodajemy sos, a następnie cebulę dymkę. Smażymy przez chwilę, aż zagęści się sos. Można dodać makaron lub oddzielnie ryż.
  - jeśli nie jest na tyle ostre na ile chcemy można jeszcze trochę ostrej papryki dodać i powinno smaczyć. :P
 
-Generalnie ta potrawa wygląda dobrze, jak nie ma zbyt dużo warzyw, więc chyba najlepiej ją jeść z suruwką warzywną chińską.
+Generalnie ta potrawa wygląda dobrze, jak nie ma zbyt dużo warzyw, więc chyba najlepiej ją jeść z surówką warzywną chińską.
