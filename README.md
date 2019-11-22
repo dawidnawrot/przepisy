@@ -1,1 +1,1 @@
- - [Kurczak w sosie pomarańczowym](./kurczak-w-sosie-pomaranczowym)
+ - [Kurczak w sosie pomarańczowym](./kurczak-w-sosie-pomaranczowym.md)
