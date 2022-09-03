@@ -1,5 +1,6 @@
 # Przepis na 12 buleczek
 
+## Skladniki
 Tang zhong:
  - 23g mąki typu 750
  - 30g wody
@@ -14,6 +15,7 @@ Ciasto:
  - 1,5 jajko
  - 83g masla
 
+## Wykonanie
 Tang zhong:
 
 Na patelnie wlewamy make i wode, dodajemy make i mieszamy dopoki nie wyjdzie nam kleik podobny do beszamelu. Wazne zeby nie zagotowac tego, bo nie wyjdzie, najlepiej jak temperatura nie przekroczy 65 stopni. Kleik odstawiamy.
