@@ -18,7 +18,7 @@ Ciasto:
 ## Wykonanie
 Tang zhong:
 
-Na patelnie wlewamy make i wode, dodajemy make i mieszamy dopoki nie wyjdzie nam kleik podobny do beszamelu. Wazne zeby nie zagotowac tego, bo nie wyjdzie, najlepiej jak temperatura nie przekroczy 65 stopni. Kleik odstawiamy.
+Na patelnie wlewamy make i wode, dodajemy make i mieszamy dopoki nie wyjdzie nam kleik podobny do beszamelu. Wazne zeby nie zagotowac tego, bo nie wyjdzie, najlepiej jak temperatura nie przekroczy 65 stopni. To robilem jakieś 15 minut i trzeba grzać na 2/3.  Kleik odstawiamy.
 
 Ciasto i pieczenie:
 
