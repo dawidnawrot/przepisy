@@ -2,18 +2,18 @@
 
 ## Skladniki
 Tang zhong:
- - 23g mąki typu 750
- - 30g wody
- - 83g mleka
+ - 45g mąki typu 750
+ - 60g wody
+ - 166g mleka
 
 Ciasto:
- - 200g mleka (cieple / letnie)
- - 7,5g drozdzy instant lub 23g drozdzy swiezych
- - 450g maki 750
- - 12g soli
- - 42g cukru
- - 1,5 jajko
- - 83g masla
+ - 400g mleka (cieple / letnie)
+ - 15g drozdzy instant lub 23g drozdzy swiezych
+ - 900g maki 750
+ - 24g soli
+ - 84g cukru
+ - 3 jajko
+ - 165g masla
 
 ## Wykonanie
 Tang zhong:
